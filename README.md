@@ -1,16 +1,34 @@
-## Hi there 👋
+## 让我们认识一下？
+个人CSDN博客地址：<https://xiaoshen.blog.csdn.net/>   
+个人掘金博客地址：<https://juejin.cn/user/70007368988926/>   
+努力学习中，不会就去学，学习永远不会吃亏的。
+In the process of hard work, if you don't know how to learn, go ahead and learn. Learning will never be at a disadvantage
 
-<!--
-**qp666/qp666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     
+## Python源:     
+https://pypi.tuna.tsinghua.edu.cn/simple/ 清华    
+http://pypi.doubanio.com/simple/ 豆瓣     
+http://mirrors.aliyun.com/pypi/simple/ 阿里    
+https://pypi.mirrors.ustc.edu.cn/simple/ 中国科学技术大学    
+http://mirrors.163.com/pypi/simple/ 网易  
 
-Here are some ideas to get you started:
+```angular2html
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## npm源:
+常用源地址：  
+官方： http://www.npmjs.org    
+阿里： https://registry.npmmirror.com
+
+查看源地址
+```sh
+npm config get registry
+```
+
+设置源地址：
+```
+npm config set registry http://www.npmjs.org
+
+npm config set registry https://registry.npmmirror.com
+```
