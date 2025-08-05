@@ -4,6 +4,7 @@
 
 
 努力学习中，不会就去学，学习永远不会吃亏的。
+
 In the process of hard work, if you don't know how to learn, go ahead and learn. Learning will never be at a disadvantage
 
 
