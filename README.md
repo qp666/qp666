@@ -14,22 +14,7 @@ In the process of hard work, if you don't know how to learn, go ahead and learn.
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-## npm源:
-常用源地址：  
-官方： http://www.npmjs.org    
-阿里： https://registry.npmmirror.com
 
-查看源地址
-```sh
-npm config get registry
-```
-
-设置源地址：
-```
-npm config set registry http://www.npmjs.org
-
-npm config set registry https://registry.npmmirror.com
-```
 
 ### 👨‍💻 编程语言
 <p>
@@ -63,3 +48,20 @@ npm config set registry https://registry.npmmirror.com
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
+
+## npm源:
+常用源地址：  
+官方： http://www.npmjs.org    
+阿里： https://registry.npmmirror.com
+
+查看源地址
+```sh
+npm config get registry
+```
+
+设置源地址：
+```
+npm config set registry http://www.npmjs.org
+
+npm config set registry https://registry.npmmirror.com
+```
