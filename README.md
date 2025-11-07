@@ -38,6 +38,8 @@ In the process of hard work, if you don't know how to learn, go ahead and learn.
     <a href="#"><img alt="edge" src="https://img.shields.io/badge/edge-blue?logo=microsoftedge"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Zread" src="https://img.shields.io/badge/Ask_Zread-_.svg"></a>
+    
 </p>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
